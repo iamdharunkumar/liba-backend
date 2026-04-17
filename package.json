@@ -1,0 +1,13 @@
+{
+  "name": "liba-nakama-module",
+  "version": "1.0.0",
+  "description": "Tic-Tac-Toe Server Module for Nakama",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "nakama-runtime": "github:heroiclabs/nakama-common#v1.45.0",
+    "typescript": "^5.0.0"
+  }
+}
